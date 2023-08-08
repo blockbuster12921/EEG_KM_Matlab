@@ -27,12 +27,12 @@ n_same      = 1;        %number of consecutive stimulation periods at the same s
 rndCycling  = false;    %set to true for random cycling in the toggling approach (only works for toggling) - see use cases in KM_wrapper.m  
 ```
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-26.png" alt="Image 1">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-29.png" alt="Image 2">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-31.png" alt="Image 3">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-34.png" alt="Image 4">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-36.png" alt="Image 5">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-39.png" alt="Image 6">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-26.png" alt="Image 1">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-29.png" alt="Image 2">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-31.png" alt="Image 3">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-34.png" alt="Image 4">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-36.png" alt="Image 5">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_01-32-39.png" alt="Image 6">
 </div>
 
 ## Parameters 2
@@ -58,10 +58,10 @@ n_same      = 1;        %number of consecutive stimulation periods at the same s
 rndCycling  = false;    %set to true for random cycling in the toggling approach (only works for toggling) - see use cases in KM_wrapper.m  
 ```
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-15.png" alt="Image 1">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-18.png" alt="Image 2">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-20.png" alt="Image 3">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-23.png" alt="Image 4">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-25.png" alt="Image 5">
-    <img src="KM/KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-27.png" alt="Image 6">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-15.png" alt="Image 1">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-18.png" alt="Image 2">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-20.png" alt="Image 3">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-23.png" alt="Image 4">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-25.png" alt="Image 5">
+    <img src="KM_plotArnoldTongues/Fig/out_edited_07-Aug-23_02-07-27.png" alt="Image 6">
 </div>
