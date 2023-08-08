@@ -1,0 +1,20 @@
+https://github.com/benoit-du/dithered-stimulation/blob/main/KM/KM_genData/testCall.m
+
+GitHub
+dithered-stimulation/KM/KM_genData/testCall.m at main · benoit-du/dithered-stimulation
+Code to compute entrainment metrics in the sine circle map and the coupled neural oscillator model with and without dithered stimulation - see https://doi.org/10.1088/1741-2552/acbc4a - benoit-du/d...
+This changes parameters^
+
+https://github.com/benoit-du/dithered-stimulation/blob/main/KM/KM_plotArnoldTongues/reading_slopeBased.m
+
+GitHub
+dithered-stimulation/KM/KM_plotArnoldTongues/reading_slopeBased.m at main · benoit-du/dithered-stimulation
+Code to compute entrainment metrics in the sine circle map and the coupled neural oscillator model with and without dithered stimulation - see https://doi.org/10.1088/1741-2552/acbc4a - benoit-du/d...
+The code to generate plots.
+
+1. Stimulation Noise Std Deviation (xi) to 4 and 16.
+2. Max Stim Amplitude to 1E4 and 4E4
+3. Number of Stimulation Amplitudes to 1, 25, and 100.
+4. Stimulation Frequency to 260 and 65, and 0
+
+Different ways to change the parameters^
